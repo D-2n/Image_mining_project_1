@@ -1,0 +1,78 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+im_proj1/
+
+# Project specific data
+CBIR_15-Scene/
+CBIR_15-Scene.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Data files (you may want to uncomment these depending on your dataset)
+# *.csv
+# *.h5
+# *.pkl
+# *.pickle
+
+# Model files
+# *.pth
+# *.h5
+# *.pkl
